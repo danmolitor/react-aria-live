@@ -21,7 +21,7 @@
     "uuid": "^3.2.1"
   },
   "peerDependencies": {
-    "react": "^16.3.x"
+    "react": "^18.2.x"
   },
   "devDependencies": {
     "babel-core": "6.26.0",
@@ -83,7 +83,7 @@
   "author": "Almero Steyn",
   "homepage": "",
   "license": "MIT",
-  "repository": "https://github.com/AlmeroSteyn/react-aria-live",
+  "repository": "https://github.com/danmolitor/react-aria-live",
   "keywords": [
     "react-component"
   ],
