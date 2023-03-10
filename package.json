@@ -1,7 +1,7 @@
 {
-  "name": "react-aria-live",
-  "version": "2.0.5",
-  "description": "Add aria-live messaging to your React app",
+  "name": "@danmolitor/react-aria-live",
+  "version": "2.0.6",
+  "description": "Add aria-live messaging to your React app, upgraded to peer dep React 18",
   "main": "lib/index.js",
   "module": "es/index.js",
   "files": [
